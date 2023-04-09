@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+h1 {
+    color: white;
+    background-color: brown;
+    line-break: 20px;
+}
